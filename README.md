@@ -9,7 +9,7 @@ It is designed to help hiring managers and teams understand how I approach:
 - Cost/latency tradeoffs and reliability
 
 ## Contents
-- `docs/01-ai-product-system-overview.md` — Reference architecture + decisions
+- [AI Product System Overview](docs/01-ai-product-system-overview.md) — Reference architecture + decisions
 - `docs/02-rag-vs-finetuning.md` — When to use which (enterprise lens)
 - `docs/03-evaluation-and-metrics.md` — Measuring quality beyond “accuracy”
 - `docs/04-risk-guardrails-and-trust.md` — Controls, safety, and rollout
