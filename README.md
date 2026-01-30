@@ -15,6 +15,9 @@ It is designed to help hiring managers and teams understand how I approach:
 - [AI Risk, Guardrails & Security](docs/04-risk-guardrails-and-security.md) — Safety, governance, and enterprise controls
 - [AI Cost, Latency & SLOs](docs/05-cost-latency-and-slos.md) — Scaling AI responsibly in production
 - [AI PRD Template](templates/prd-ai-feature-template.md) — Enterprise-ready AI product requirements
+
+   ## 📘 Case Studies
+- [AI Knowledge Base for Contact Centers](case-studies/ai-knowledge-base-prd.md) — Real-world AI PRD using enterprise guardrails
   
 ## Who this is for
 - AI Product Manager interviews
