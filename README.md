@@ -12,7 +12,7 @@ It is designed to help hiring managers and teams understand how I approach:
 - [AI Product System Overview](docs/01-ai-product-system-overview.md) — Reference architecture + decisions
 - `docs/02-rag-vs-finetuning.md` — When to use which (enterprise lens)
 - [AI Evaluation & Metrics](docs/03-evaluation-and-metrics.md) — Measuring quality, trust, and business impact
-- `docs/04-risk-guardrails-and-trust.md` — Controls, safety, and rollout
+- [AI Risk, Guardrails & Security](docs/04-risk-guardrails-and-security.md) — Safety, governance, and enterprise controls
 - `docs/05-cost-latency-and-slo.md` — Performance, reliability, cost
 
 ## Who this is for
