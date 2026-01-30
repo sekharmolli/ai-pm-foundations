@@ -1,7 +1,7 @@
 # AI PM Foundations
 
 This repository is a Product Manager portfolio focused on **AI product thinking**, **system design**, and **decision-making** for enterprise-grade AI products.
-
+Across these documents, I emphasize enforcing policy **before generation**, validating outputs **after generation**, and preserving **human-in-the-loop** workflows to build trustworthy enterprise AI systems.
 It is designed to help hiring managers and teams understand how I approach:
 - LLM product design (RAG, tool use, human-in-the-loop)
 - Evaluation and success metrics
