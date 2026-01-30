@@ -10,7 +10,7 @@ It is designed to help hiring managers and teams understand how I approach:
 
 ## Contents
 - [AI Product System Overview](docs/01-ai-product-system-overview.md) — Reference architecture + decisions
-- `docs/02-rag-vs-finetuning.md` — When to use which (enterprise lens)
+- [RAG vs Fine-tuning](docs/02-rag-vs-finetuning.md) — Choosing the right approach for enterprise AI
 - [AI Evaluation & Metrics](docs/03-evaluation-and-metrics.md) — Measuring quality, trust, and business impact
 - [AI Risk, Guardrails & Security](docs/04-risk-guardrails-and-security.md) — Safety, governance, and enterprise controls
 - [AI Cost, Latency & SLOs](docs/05-cost-latency-and-slos.md) — Scaling AI responsibly in production
