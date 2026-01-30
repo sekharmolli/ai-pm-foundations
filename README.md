@@ -14,6 +14,7 @@ It is designed to help hiring managers and teams understand how I approach:
 - [AI Evaluation & Metrics](docs/03-evaluation-and-metrics.md) — Measuring quality, trust, and business impact
 - [AI Risk, Guardrails & Security](docs/04-risk-guardrails-and-security.md) — Safety, governance, and enterprise controls
 - [AI Cost, Latency & SLOs](docs/05-cost-latency-and-slos.md) — Scaling AI responsibly in production
+- [AI PRD Template](templates/prd-ai-feature-template.md) — Enterprise-ready AI product requirements
   
 ## Who this is for
 - AI Product Manager interviews
