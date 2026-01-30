@@ -66,3 +66,115 @@ Avoid generic statements like “AI improves efficiency.”
 Explain **why** this approach was selected.
 
 ### High-level flow
+
+
+---
+
+## 6) Data Sources & Governance
+
+### Data inputs
+- Knowledge sources (docs, tickets, transcripts)
+- Systems of record (if any)
+
+### Governance
+- Data freshness ownership
+- Access control (RBAC / ABAC)
+- Tenant isolation
+- Retention and logging policies
+
+---
+
+## 7) Risk Assessment & Guardrails
+
+### Key risks
+- Hallucinations
+- Data leakage
+- Over-automation
+- Security abuse
+- Compliance concerns
+
+### Guardrail strategy
+- Input validation
+- Retrieval constraints
+- Confidence thresholds
+- Refusal logic
+- Human-in-the-loop design
+
+---
+
+## 8) Metrics & Evaluation
+
+### Adoption metrics
+- Feature usage rate
+- Repeat usage
+- Fallback rate
+
+### Quality & safety metrics
+- Hallucination rate
+- Grounded response rate
+- Refusal accuracy
+- Escalation success rate
+
+### Business metrics
+- Deflection (confidence-gated)
+- CSAT / NPS delta
+- Handle time reduction
+- Cost per resolution
+
+---
+
+## 9) Cost, Latency & SLOs
+
+### Latency targets
+- p95 response time (by interface: voice/chat)
+
+### Cost targets
+- Cost per request
+- Cost per resolution
+
+### Reliability targets
+- Availability
+- Escalation success rate
+
+---
+
+## 10) Rollout Plan
+
+### Phase 1: Internal / Assist-Only
+- Agent assist or shadow mode
+- Manual review loop
+
+### Phase 2: Limited GA
+- Conservative guardrails
+- Confidence-gated automation
+
+### Phase 3: Scale
+- Expanded coverage
+- Cost and latency optimization
+
+---
+
+## 11) Open Questions & Dependencies
+
+- Legal/compliance approvals
+- Security reviews
+- Data readiness
+- Tooling or infra dependencies
+
+---
+
+## 12) Out of Scope / Future Enhancements
+
+- Features explicitly deferred
+- V2/V3 ideas
+
+---
+
+## Summary
+
+This PRD ensures AI features are:
+- useful
+- safe
+- measurable
+- scalable
+- enterprise-ready
